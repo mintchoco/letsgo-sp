@@ -28,3 +28,29 @@
 2. 1 step + 2 steps
 3. 2 steps + 1 step
 ```
+
+## Code Template
+### C
+```c
+int climbStairs(int n) {
+
+}
+```
+
+### Java
+```java
+class Solution {
+    public int climbStairs(int n) {
+
+    }
+}
+```
+
+### C\# #
+```csharp
+public class Solution {
+    public int ClimbStairs(int n) {
+
+    }
+}
+```
