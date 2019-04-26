@@ -45,7 +45,6 @@ public class ExlporeMazeAnsJtkim {
 	}
 
 	private static void dfs(int[][] grid, int row, int col, int path) {
-
 		// 최종 목적지 도착
 		if (row == grid.length - 1 && col == grid[0].length - 1) {
 			// 목적지까지 갈 수 있는 경로 중 제일 짧은 경로
