@@ -8,6 +8,8 @@ public class ExlporeMazeAnsJtkim {
 
 	// 4 방향 체크 시 왔던 길로 돌아가는 것을 막기 위한 플래그
 	private static boolean[][] marked = null;
+	
+	// 최단 경로
 	private static int shortest = 0;
 
 	public static void main(String[] args) {
